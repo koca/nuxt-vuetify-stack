@@ -1,4 +1,4 @@
-# nuxt-stack
+# nuxt-vuetify-stack
 
 Example nuxt stack that based on vuetify. Comes with tooling such as eslint, prettier, husky, editorconfig, jest, stylelint and vscode settings.
 
